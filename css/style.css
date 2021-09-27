@@ -25,3 +25,12 @@
 .evidenziatore{
     background-color: yellow;
 }
+
+#init-table{
+    background-color: rgb(41, 118, 219) ;
+    color: white;
+}
+
+.sfondo-tabella{
+    background-color: turquoise;
+}
