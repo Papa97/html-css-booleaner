@@ -14,10 +14,14 @@
 
 /* main */
 
-#evidenziatore{
+.scritta-blu{
     color: rgb(41, 118, 219) ;
 }
 
 .sottotitolo{
     font-size: 10px;
+}
+
+.evidenziatore{
+    background-color: yellow;
 }
